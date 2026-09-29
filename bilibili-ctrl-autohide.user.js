@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         bilibili 网页全屏控制栏自动隐藏修复
 // @namespace    duofu.bili.ctrl-autohide
-// @version      1.0.0
+// @version      1.0.1
 // @description  修复网页全屏下鼠标缓慢移出窗口时底部控制栏卡住不自动隐藏的问题
 // @author       duofu
 // @license      MIT
+// @icon         https://cdn.jsdelivr.net/gh/duofuwang/bilibili-ctrl-autohide@main/icon.png
 // @match        *://*.bilibili.com/*
 // @run-at       document-end
 // @grant        none
